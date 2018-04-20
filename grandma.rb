@@ -5,7 +5,7 @@ def speak_to_grandma(phrase)
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
   if
-    phrase == "I LOVE YOU GRANDMAN!".upcase
+    phrase == "I LOVE YOU GRANDMAN!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif
     phrase == upcase
